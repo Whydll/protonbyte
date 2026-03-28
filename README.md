@@ -2,7 +2,7 @@
 
 [English](#english) | [Türkçe](#türkçe)
 
-## Türkçe {#türkçe}
+## Türkçe
 
 Uzay ortamında veri sıkıştırma ve hata düzeltme.
 
@@ -76,7 +76,7 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 
-## English {#english}
+## English
 
 Data compression and error correction for deep space.
 
