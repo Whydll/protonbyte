@@ -76,6 +76,8 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 
 ---
 
+<details>
+<summary><b>Click to expand English version / İngilizce için tıklayın</b></summary>
 ## English
 
 Data compression and error correction for deep space.
@@ -147,3 +149,5 @@ g++ -std=c++20 -O2 bitflip.cpp -o bitflip
 ### License
 
 This project is licensed under the [MIT License](LICENSE).
+
+</details>
