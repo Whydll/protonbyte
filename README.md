@@ -2,6 +2,7 @@
 
 [English](#english) | [Türkçe](#türkçe)
 
+[Demo Preview](https://www.youtube.com/watch?v=-u6LzZhfTOM)
 ## Türkçe
 
 Uzay ortamında veri sıkıştırma ve hata düzeltme.
